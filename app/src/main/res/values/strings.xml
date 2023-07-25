@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Замечания</string>
+    <string name="crime_title_hint">Описание.</string>
+    <string name="crime_title_label">Описание</string>
+    <string name="crime_details_label">Время и дата</string>
+    <string name="crime_solved_label">Замечание исправлено/принято</string>
+    <string name="call_police">Позвонить руководителю</string>
+    <string name="list_empty">Список пуст</string>
+    <string name="new_crime">Новое преступление</string>
+    <string name="crime_suspect_text">Подозреваемый виновник</string>
+    <string name="crime_report_text">Поделиться</string>
+    <string name="crime_report">%1$s!
+    Преступление было создано %2$s. %3$s, и %4$s</string>
+    <string name="crime_report_solved">Замечание исправлено/принято</string>
+    <string name="crime_report_unsolved">Замечание не исправлено</string>
+    <string name="crime_report_no_suspect">Нет виновника</string>
+    <string name="crime_report_suspect">Виновник %1$s</string>
+    <string name="crime_report_subject">Отчёт об ошибке</string>
+    <string name="send_report">Отправить отчёт</string>
+    <string name="call_suspect">Позвонить виновнику</string>
+    <string name="crime_photo_button_description" translatable="false">Сфотографировать ошибку</string>
+    <string name="crime_photo_no_image_description" translatable="false">
+Фото с места преступления (не установлено).</string>
+    <string name="crime_photo_image_description" translatable="false">Фото с места преступления (установлено)</string>
+</resources>

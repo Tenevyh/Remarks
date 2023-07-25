@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Crimen</string>
+    <string name="crime_title_hint">Descripción.</string>
+    <string name="crime_title_label">Descripción</string>
+    <string name="crime_details_label">Hora y fecha</string>
+    <string name="crime_solved_label">Resuelto</string>
+    <string name="call_police">¡Llama a la policía!</string>
+    <string name="list_empty">La lista está vacía</string>
+    <string name="new_crime">Nuevo crimen</string>
+    <string name="crime_suspect_text">Sospechoso</string>
+    <string name="crime_report_text">Compartir</string>
+    <string name="crime_report">%1$s!
+    Se resolvió el crimen de %2$s. %3$s y %4$s</string>
+    <string name="crime_report_solved">Caso resuelto</string>
+    <string name="crime_report_unsolved">Caso sin resolver</string>
+    <string name="crime_report_no_suspect">Sin sospechoso</string>
+    <string name="crime_report_suspect">Sospechoso %1$s</string>
+    <string name="crime_report_subject">Denuncia del delito</string>
+    <string name="send_report">Enviar informe</string>
+</resources>
